@@ -1,0 +1,10 @@
+RSBE01.txt
+
+Place this near wario-man related codes
+############################
+Wario-Man Cosmetics [ds22]
+############################
+* 04455818 250117FF
+* 04455A28 42012DFF
+* 04455A2C 0B000000
+* 04455A30 00002016
