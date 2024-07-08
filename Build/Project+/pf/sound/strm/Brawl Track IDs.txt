@@ -1,0 +1,416 @@
+Tracklist:
+BATTLEFIELD (BRAWL) / BATTLEFIELD (MELEE) 
+X04 - Battlefield 
+T02 - Menu (Super Smash Bros. Melee)
+X25 - Battlefield Ver. 2
+W21 - Battlefield (Melee)
+W23 - Multi-Man Melee 1 (Melee)
+
+FINAL DESTINATION (MELEE)
+(Original Stage: Final Destination (Brawl))
+X05 - Final Destination
+T01 - Credits (Super Smash Bros.)
+T03 - Opening (Super Smash Bros. Melee) -> Multi Man Melee 2 (Melee) 
+W25 - Final Destination (Melee)
+W31 - Giga Bowser (Melee)
+
+DELFINO’S SECRET / DELFINO PLAZA (BRAWL)
+A13 - Delfino Plaza -> Delfino’s Secret 
+A07 - Title / Ending (Super Mario World)
+A08 - Main Theme (New Super Mario Bros.)
+A14 - Ricco Harbor
+A15 - Main Theme (Super Mario 64)
+
+LUIGI'S MANSION
+A09 - Luigi's Mansion Theme
+A06 - Castle / Boss Fortress (Super Mario World / SMB3)
+A05 - Airship Theme (Super Mario Bros. 3)
+Q10 - Tetris: Type A
+Q11 - Tetris: Type B
+
+METAL CAVERN HD / METAL CAVERN 64 
+(Original Stage: Mushroomy Kingdom)
+1-1
+A01 - Ground Theme (Super Mario Bros.) -> Metal Battle (Super Smash Bros. Melee) 
+A16 - Ground Theme 2 (Super Mario Bros.) -> Metal Mario (Super Smash Bros.) 
+A10 - Gritzy Desert
+1-2
+A02 - Underground Theme (Super Mario Bros.) -> Metal Cavern (by MG3) 
+A03 - Underwater Theme (Super Mario Bros.) 
+A04 - Underground Theme (Super Mario Land)
+
+BOWSER’S CASTLE  
+(Original Stage: Mario Circuit)
+A20 - Mario Circuit -> Bowser’s Castle ver. M 
+A21 - Luigi Circuit
+A22 - Waluigi Pinball
+A23 - Rainbow Road
+R05 - Mario Tennis/Mario Golf
+R14 - Excite Truck
+Q09 - Title (3D Hot Rally)
+
+RUMBLE FALLS / RUMBLE FALLS (BRAWL) 
+B01 - Jungle Level Ver.2
+B08 - Jungle Level
+B05 - King K. Rool / Ship Deck 2
+B06 - Bramble Blast
+B07 - Battle for Storm Hill
+B10 - DK Jungle 1 Theme (Barrel Blast)
+B02 - The Map Page / Bonus Level
+
+HYRULE CASTLE HD / BRIDGE OF ELDIN / HYRULE CASTLE 64
+C02 - Main Theme (The Legend of Zelda)
+C09 - Ocarina of Time Medley
+C01 - Title (The Legend of Zelda)
+C04 - The Dark World
+C05 - Hidden Mountain & Forest
+C08 - Hyrule Field Theme
+C17 - Main Theme (Twilight Princess)
+C18 - The Hidden Village -> Hyrule Castle (Super Smash Bros. 
+C19 - Midna's Lament
+
+PIRATE SHIP
+C15 - Dragon Roost Island
+C16 - The Great Sea
+C07 - Tal Tal Heights
+C10 - Song of Storms
+C13 - Gerudo Valley
+C11 - Molgera Battle
+C12 - Village of the Blue Maiden
+C14 - Termina Field
+
+NORFAIR / NORFAIR (BRAWL)
+D01 - Main Theme (Metroid)
+D03 - Ending (Metroid)
+D02 - Norfair
+D05 - Theme of Samus Aran, Space Warrior
+R12 - Battle Scene / Final Boss (Golden Sun)
+R07 - Marionation Gear
+
+FRIGATE ORPHEON
+D04 - Vs. Ridley
+D08 - Vs. Parasite Queen
+D07 - Opening / Menu (Metroid Prime)
+D06 - Sector 1
+D09 - Vs. Meta Ridley
+D10 - Multiplayer (Metroid Prime 2)
+
+YOSHI’S ISLAND (BRAWL) / YOSHI’S ISLAND (MELEE) 
+E02 - Obstacle Course
+E07 - Obstacle Course (Winter)
+E01 - Ending (Yoshi's Story)
+E03 - Yoshi's Island
+E05 - Flower Field -> Yoshi’s Island (Melee) 
+E06 - Wildlands
+
+HALBERD
+F06 - Meta Knight's Revenge
+F01 - The Legendary Air Ride Machine
+F05 - Gourmet Race
+F04 - Butter Building
+F02 - King Dedede's Theme
+F12 - Squeak Squad Theme
+F07 - Vs. Marx
+F08 - 0² Battle
+F03 - Boss Theme Medley
+F10 - Checker Knights
+F09 - Forest / Nature Area
+F11 - Frozen Hillside
+
+LYLAT CRUISE / LYLAT CRUISE (BRAWL)
+G10 - Space Armada
+G02 - Corneria
+G01 - Main Theme (Star Fox)
+G03 - Main Theme (Star Fox 64)
+G04 - Area 6
+G11 - Area 6 Ver. 2
+G05 - Star Wolf
+G09 - Star Wolf (Star Fox: Assault)
+G07 - Space Battleground
+G08 - Break Through the Ice
+Q12 - Tunnel Scene (X)
+
+POKEMON STADIUM 2 / POKEMON STADIUM (MELEE)
+H01 - Pokemon Main Theme
+H03 - Road to Viridian City (From Pallet Town / Pewter City)
+H02 - Pokemon Center
+H04 - Pokemon Gym / Evolution
+H05 - Wild Pokemon Battle! (Ruby / Sapphire)
+
+SPEAR PILLAR
+H06 - Victory Road
+H08 - Dialga / Palkia Battle at Spear Pillar!
+H07 - Wild Pokemon Battle! (Diamond / Pearl)
+H09 - Team Galactic Battle!
+H10 - Route 209
+
+PORT TOWN: AERO DIVE
+I01 - Mute City
+I03 - Fire Field
+I02 - White Land
+I04 - Car Select
+I05 - Dream Chaser
+I06 - Devil's Call in Your Heart
+I07 - Climb Up! And Get The Last Chance!
+I08 - Brain Cleaner
+I09 - Shotgun Kiss
+I10 - Planet Colors
+R09 - Golden Forest (1080° Snowboarding)
+W18 - Mach Rider (Melee)
+
+CASTLE SIEGE / CASTLE SIEGE (BRAWL) 
+J02 - Fire Emblem Theme
+J04 - With Mila's Divine Protection (Celica Map 1)
+J08 - Attack
+J06 - Preparing to Advance
+J07 - Winning Road - Roy's Hope
+J03 - Shadow Dragon Medley
+J13 - Ike's Theme
+J09 - Against the Dark Knight
+J10 - Crimean Army Sortie
+J11 - Power-Hungry Fool
+J12 - Victory is Near
+W17 - Fire Emblem (Melee)
+
+WARIO LAND / WARIOWARE, INC. 
+M01 - WarioWare, Inc. -> Bad Mario (by Phonetic Hero) 
+M02 - WarioWare, Inc. Medley
+M08 - Ashley's Song
+M07 - Ashley's Song (JP)
+M06 - Mike's Song
+M05 - Mike's Song (JP)
+M04 - Mona Pizza's Song
+M03 - Mona Pizza's Song (JP)
+M09 - MicroGame$ Theme 01
+M10 - MicroGame$ Theme 02
+M11 - MicroGame$ Theme 03
+M12 - MicroGame$ Theme 04
+M13 - MicroGame$ Theme 05
+M15 - MicroGame$ Theme 06
+M16 - MicroGame$ Theme 07
+M17 - MicroGame$ Theme 08
+M18 - MicroGame$ Theme 09
+
+DISTANT PLANET / DISTANT PLANET (BRAWL)
+L06 - Main Theme (Pikmin)
+L01 - World Map (Pikmin 2)
+L07 - Stage Clear / Title (Pikmin)
+L02 - Forest of Hope
+L04 - Ai no Uta
+L08 - Ai no Uta (French Version)
+L05 - Tane no Uta
+L03 - Environmental Noises
+R08 - Title (Big Brain Academy)
+
+SMASHVILLE
+N01 - Title (Animal Crossing)
+N02 - Go K.K. Rider!
+N03 - 2:00 a.m.
+N06 - Town Hall and Tom Nook's Store -> Kicks’ Twilite Funk (2:00 a.m.) 
+N05 - The Roost -> Title (Animal Crossing) Ver. M 
+
+N07 - K.K. Cruisin'
+N08 - K.K. Western
+N09 - K.K. Gumbo
+N10 - Rockin' K.K
+N11 - DJ K.K
+
+N12 - K.K. Condor  -> Bowser’s Victory Theme
+
+FOURSIDE (MELEE) / NEW PORT CITY (BRAWL)
+K07 - Porky's Theme -> Fourside (Melee) 
+K09 - Unfounded Revenge / Smashing Song of Praise
+K08 - Mother 3 Love Theme
+K10 - You Call This a Utopia?!
+K05 - Humoresque of a Little Dog
+K01 - Snowman
+
+INFINITE GLACIER / SUMMIT (BRAWL)
+Q07 - Ice Climber
+Q06 - Balloon Trip
+Q08 - Shin Onigashima
+Q05 - Clu Clu Land
+W13 - Icicle Mountain (Melee)
+
+SKYWORLD / SKYWORLD (BRAWL)
+P01 - Underworld
+P03 - Skyworld
+P02 - Title (Kid Icarus)
+P04 - Kid Icarus Original Medley
+
+KONGO JUNGLE 
+(Original Stage: 75M) 
+B04 - Donkey Kong
+B03 - Opening (Donkey Kong)
+B09 - 25m BGM - Kongo Jungle (Super Smash Bros.) 
+
+FOUNTAIN OF DREAMS
+(Original Stage: Mario Bros. (Brawl)) 
+A17 - Mario Bros. -> Fountain of Dreams (Melee) 
+Q02 - Gyromite
+Q01 - Famicom Medley
+Q13 - Power-Up Music
+Q14 - Douchuumen (Nazo no Murasamejo)
+
+FLAT ZONE 2
+R04 - Flat Zone 2
+Q04 - Chill (Dr. Mario)
+W14 - Flat Zone (Melee)
+
+PICTOCHAT
+R02 - PictoChat
+R10 - Mii Channel
+R11 - Wii Shop Channel
+R15 - Brain Age: Train Your Brain in Minutes a Day
+R16 - Opening Theme (Wii Sports)
+R17 - Charge! (Wii Play)
+R13 - Shaberu! DS Cooking Navi
+R06 - Lip's Theme (Panel de Pon)
+W20 - Dr. Mario (Melee)
+
+HANENBOW / HANENBOW (BRAWL)
+R03 - Hanenbow Ambience -> Hanenbow by Garrett Williamson (feat. Adam Kirby and Audio Selah) 
+
+SHADOW MOSES ISLAND
+S06 - MGS4 ~Theme of Love~ Smash Bros. Brawl Version
+S02 - Encounter
+S03 - Theme of Tara
+S08 - Battle in the Base
+2849 S04 - Yell "Dead Cell"
+4200 S07 - Cavern
+5978 S05 - Snake Eater (Instrumental)
+S10 - Theme of Solid Snake
+S11 - Calling to the Night
+
+GREEN HILL ZONE / GREEN HILL ZONE (BRAWL) 
+U01 - Green Hill Zone
+U04 - Angel Island Zone
+U02 - Scrap Brain Zone
+U03 - Emerald Hill Zone
+U06 - Sonic Boom
+U07 - Super Sonic Racing
+U08 - Open Your Heart
+U09 - Live & Learn
+U10 - Sonic Heroes
+U11 - Right There, Ride On
+U12 - HIS WORLD (Instrumental)
+U13 - Seven Rings In Hand
+
+TEMPLE / SKYLOFT
+C03 - Great Temple / Temple
+W24 - Temple (Melee)
+
+YOSHI’S STORY (MELEE) / YOSHI’S STORY 64
+(Original Stage: Yoshi’s Island (Melee))
+W05 - Yoshi's Island (Melee) -> Yoshi’s Story 64
+W15 - Super Mario Bros. 3 (Melee) -> Yoshi’s Story (Melee) 
+
+JUNGLE JAPES
+W03 - Jungle Japes (Melee)
+W26 - Kongo Jungle (Melee)
+
+ONETT
+W12 - Mother (Melee)
+W19 - Mother 2 (Melee)
+
+CORNERIA / SECTOR Z 
+W08 - Corneria (Melee)
+W28 - Venom (Melee)
+
+PEACH’S CASTLE HD / RAINBOW CRUISE (MELEE) / PEACH’S CASTLE 64
+W02 - Rainbow Cruise (Melee)
+W01 - Princess Peach's Castle (Melee) -> Peach’s Castle 64
+
+DREAMLAND HD / DREAMLAND 64
+(Original Stage: Green Greens) 
+W07 - Green Greens (Melee) -> Gourmet Race (Super Smash Bros.)
+W06 - Fountain of Dreams (Melee) -> Green Greens (Melee) 
+
+BIG BLUE
+W11 - Big Blue (Melee)
+W29 - Mute City (Melee)
+
+BRINSTAR / PLANET ZEBES 64
+W27 - Brinstar (Melee)
+W04 - Brinstar Depths (Melee)
+
+SAFFRON CITY
+(Original Stage: Pokemon Stadium (Melee))
+W09 - Pokemon Stadium (Melee) -> Saffron City 64
+W16 - Battle Theme (Melee)
+W10 - Poke Floats (Melee)
+
+MENU
+X02 - Menu 1 -> Menu (Project M)
+X03 - Menu 2
+W30 - Menu (Melee)
+X01 - Super Smash Bros. Brawl Main Theme
+
+SUBSPACE EMISSARY
+Y01 - Adventure Map
+Y02 - Step: The Plain
+Y03 - Step: The Cave
+Y04 - Step: Subspace
+Y09 - Jungle Theme (Donkey Kong Country)
+Y10 - Airship Theme (Super Mario Bros. 3)
+Y11 - Menu (Metroid Prime)
+Y13 - Brinstar (Metroid)
+Y14 - Step: Subspace Ver.2
+Y15 - Step: Subspace Ver.3
+Y05 - Boss Battle Song 1
+Y07 - Boss Battle Song 2
+Y08 - Save Point
+Y16 - Ambient
+Y17 - Clear
+
+VICTORY THEMES
+Z01 - Mario Series
+Z02 - Donkey Kong Series
+Z03 - Legend of Zelda Series
+Z04 - Metroid Series
+Z05 - Yoshi
+Z06 - Kirby Series
+Z07 - Star Fox Series
+Z08 - Pokémon Series
+Z10 - Captain Falcon
+Z11 - Mother Series
+Z16 - Ice Climbers
+Z17 - Fire Emblem Series
+Z18 - Mr. Game & Watch
+Z21 - Wario
+Z22 - Meta Knight
+Z23 - Pit
+Z25 - Olimar
+Z35 - R.O.B.
+Z46 - Solid Snake
+Z47 - Sonic The Hedgehog
+N12 - K.K. Condor  -> Bowser’s Victory Theme
+
+OTHER
+X07 - Online Practice Stage
+X08 - Results Display Screen -> Chillin’ With the Bros. (Results Display)
+X09 - Tournament Registration
+X10 - Tournament Grid
+X11 - Tournament Match End
+X13 - Classic: Results Screen
+X15 - All-Star Rest Area
+X16 - Home-Run Contest
+X17 - Cruel Brawl
+X18 - Boss Battle
+X19 - Trophy Gallery
+X20 - Sticker Album / Album / Chronicle
+X21 - Coin Launcher
+X23 - Stage Builder
+X26 - Target Smash!!
+X27 - Credits
+T05 - Master Hand
+X22 - Classic Mode Trophy Castle
+X06 - Solo Game Clear
+X24 - Nothing?
+Z50 - Continue
+Z51 - Game Over
+Z54 - New Feature 01
+Z55 - New Feature 02
+Z56 - New Feature 03
+Z57 - New Feature 04
+Z58 - New Feature 05
