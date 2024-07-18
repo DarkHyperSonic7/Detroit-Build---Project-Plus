@@ -59,7 +59,7 @@ Battlefield.tlst - 11 tracks
 	Frequency: 40
 
 ################
-Bowsers_Castle.tlst - 6 tracks
+Bowsers_Castle.tlst - 7 tracks
 
 	Bowser's Lava Lair
 	Gabe's Picks\Bowser's Castle\Super Mario Galaxy 2 - Bowser's Lava Lair.brstm
@@ -90,6 +90,11 @@ Bowsers_Castle.tlst - 6 tracks
 
 	Molten Mine
 	Gabe's Picks\Bowser's Castle\Sonic and the Black Knight - Molten Mine.brstm
+	Volume: 80
+	Frequency: 40
+
+	He Who Fails Upwards
+	Gabe's Picks\Bowser's Castle\Going Under OST - he who fails upwards.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -338,7 +343,7 @@ Luigis_Mansion.tlst - 8 tracks
 	Frequency: 40
 
 ################
-Menu.tlst - 12 tracks
+Menu.tlst - 14 tracks
 
 	Asteroid Coaster - Act 3
 	Gabe's Picks\Menu\Asteroid Coaster - Act 3.brstm
@@ -400,6 +405,16 @@ Menu.tlst - 12 tracks
 	Volume: 80
 	Frequency: 40
 
+	Skalpel - Why Not Jungle
+	Gabe's Picks\Menu\Skalpel - Why Not Jungle.brstm
+	Volume: 80
+	Frequency: 40
+
+	Carlyle Clyde - Noah Rosen
+	Gabe's Picks\Menu\Carlyle Clyde - Noah Rosen.brstm
+	Volume: 80
+	Frequency: 40
+
 ################
 Metal_Cavern.tlst - 8 tracks
 
@@ -444,7 +459,7 @@ Metal_Cavern.tlst - 8 tracks
 	Frequency: 40
 
 ################
-Pokemon_Stadium_2.tlst - 13 tracks
+Pokemon_Stadium_2.tlst - 14 tracks
 
 	F-Zero GX - Aeropolis
 	Gabe's Picks\Pokemon Stadium 2\F-Zero GX - Aeropolis.brstm
@@ -515,8 +530,13 @@ Pokemon_Stadium_2.tlst - 13 tracks
 	Volume: 80
 	Frequency: 40
 
+	Robotnik Rave Party - MixerProductions
+	Gabe's Picks\Pokemon Stadium 2\Robotnik Rave Party (Nice Watch Nerds) - MixerProductions.brstm
+	Volume: 80
+	Frequency: 40
+
 ################
-Smashville.tlst - 8 tracks
+Smashville.tlst - 9 tracks
 
 	Deltarune - NOW'S YOUR CHANCE TO BE A (YM2151 OKI6295 Arrangement)
 	Gabe's Picks\Smashville\Deltarune - NOW'S YOUR CHANCE TO BE A (YM2151 OKI6295 Arrangement).brstm
@@ -555,6 +575,11 @@ Smashville.tlst - 8 tracks
 
 	Pumping Iron (Remastered)
 	Gabe's Picks\Smashville\Silverhawk - Pumping Iron (Remastered) - intro cut.brstm
+	Volume: 80
+	Frequency: 40
+
+	Kenny Garrett & Svoy - Ascendence
+	Gabe's Picks\Smashville\Kenny Garrett & Svoy - Ascendence.brstm
 	Volume: 80
 	Frequency: 40
 
