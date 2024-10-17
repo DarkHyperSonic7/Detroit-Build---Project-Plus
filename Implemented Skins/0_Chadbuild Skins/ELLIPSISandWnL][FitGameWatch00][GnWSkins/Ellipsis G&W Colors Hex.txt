@@ -1,0 +1,2 @@
+Main: Green	00FF00
+2nd: Orange	FF6B00

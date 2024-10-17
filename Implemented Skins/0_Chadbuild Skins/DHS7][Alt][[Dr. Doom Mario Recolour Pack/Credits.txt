@@ -1,0 +1,9 @@
+Credits 
+Jetfantastic - Recolours
+Marioking64DS - Original Model, Rigging, Texture
+Theytah - Original MvC3 Shader for the model
+BullockDS - Original Stock Icon
+Mach7 - Re rendered original and recolours.
+AlGeorgeRomo - Rig Fixes, Slight Edits.
+
+Special Thanks - Psycho, Bringobrongo, Smash2 Dev Team

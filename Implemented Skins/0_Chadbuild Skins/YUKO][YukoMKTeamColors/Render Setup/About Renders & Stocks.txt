@@ -1,0 +1,5 @@
+Render the Main Scene and Stock Scene separately.
+Two cameras are set up in the file, one for the TE angle & another for the Yuko render angle.
+
+Use CameraOG for the stock.
+Use Camera for the main render.

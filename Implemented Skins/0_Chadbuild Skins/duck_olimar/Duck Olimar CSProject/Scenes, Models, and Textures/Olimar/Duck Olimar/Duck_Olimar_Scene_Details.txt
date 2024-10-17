@@ -1,0 +1,7 @@
+Model scale: 
+X: 0.200
+Y: 0.200
+Z: 0.200
+
+Notes:
+Polygon6 was vertex edited to fix a clipping issue.
