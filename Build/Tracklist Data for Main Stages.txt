@@ -162,7 +162,7 @@ Delfino_Secret.tlst - 10 tracks
 	Frequency: 40
 
 ################
-Dream_Land.tlst - 6 tracks
+Dream_Land.tlst - 7 tracks
 
 	Kingdom Hearts 3D Dream Drop Distance - All for One
 	Gabe's Picks\Dream Land\Kingdom Hearts 3D Dream Drop Distance - All for One.brstm
@@ -191,6 +191,11 @@ Dream_Land.tlst - 6 tracks
 
 	King Dedede's Theme (Brawl)
 	F02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Frutiger Aeropolis
+	Gabe's Picks\Dream Land\Frutiger Aeropolis.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -532,6 +537,34 @@ Pokemon_Stadium_2.tlst - 15 tracks
 
 	LIDIA SOBIESKA - Main Menu/Seaside Resort
 	Gabe's Picks\Pokemon Stadium 2/LIDIA SOBIESKA Main Menu SEASIDE RESORT STAGE OST Theme Mix.brstm
+	Volume: 80
+	Frequency: 40
+
+################
+Bullet_Station.tlst - 5 tracks
+
+	Rail Canyon
+	Gabe's Picks\Bullet Station\Sonic Heroes - Rail Canyon Zone.brstm
+	Volume: 80
+	Frequency: 40
+
+	Bullet Station
+	Gabe's Picks\Bullet Station\Sonic Heroes - Bullet Station Zone.brstm
+	Volume: 80
+	Frequency: 40
+
+	Egg Albatross
+	Gabe's Picks\Bullet Station\Sonic Heroes - Egg Albatross.brstm
+	Volume: 80
+	Frequency: 40
+
+	Rail Canyon Act 1 (Shadow Generations)
+	Gabe's Picks\Bullet Station\Shadow Generations - Rail Canyon Act 1.brstm
+	Volume: 80
+	Frequency: 40
+
+	Rail Canyon Act 2 (Bullet Station Remix)
+	Gabe's Picks\Bullet Station\Shadow Generations - Rail Canyon Act 2 (Bullet Station).brstm
 	Volume: 80
 	Frequency: 40
 
