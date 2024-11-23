@@ -1,5 +1,38 @@
 ################
-Battlefield.tlst - 12 tracks
+Yoshis_Island.tlst - 6 tracks
+
+	Sonic Frontiers - Cyber Space 1-6 (Go Back 2 Your Roots)
+	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 1-6 (Go Back 2 Your Roots).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Frontiers - Cyber Space 3-2 (Go Slap)
+	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 3-2 (Go Slap).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Frontiers - Cyber Space 4-6 (Fog Funk)
+	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 4-6 (Fog Funk).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Frontiers - Cyber Space 4-9 (Signs)
+	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 4-9 (Signs).brstm
+	Volume: 80
+	Frequency: 40
+
+	On & On - Piri & Tommy (Instrumental)
+	Gabe's Picks\Yoshi's Island\On & On - Piri & Tommy (Instrumental).brstm
+	Volume: 80
+	Frequency: 40
+
+	Regular Show - Gary vs. David
+	Gabe's Picks\Yoshi's Island\Regular Show - Gary vs David.brstm
+	Volume: 80
+	Frequency: 40
+
+################
+Battlefield.tlst - 13 tracks
 
 	F-Zero GX - Cover of Red Canyon's Theme
 	Gabe's Picks\Battlefield\F-Zero GX - Cover of Red Canyon's Theme.brstm
@@ -63,6 +96,11 @@ Battlefield.tlst - 12 tracks
 	Volume: 80
 	Frequency: 40
 
+	DBZ Budokai Tenkaichi 2 - Lost Courage
+	Gabe's Picks\Battlefield\Dragon Ball Z Budokai Tenkaichi 2 - Lost Courage.brstm
+	Volume: 80
+	Frequency: 40
+
 ################
 Bowsers_Castle.tlst - 8 tracks
 
@@ -105,6 +143,34 @@ Bowsers_Castle.tlst - 8 tracks
 
 	Super Mario Bros (S.S.H.)
 	Gabe's Picks\Bowser's Castle\Super Mario Bros (S.S.H.).brstm
+	Volume: 80
+	Frequency: 40
+
+################
+Bullet_Station.tlst - 5 tracks
+
+	Rail Canyon
+	Gabe's Picks\Bullet Station\Sonic Heroes - Rail Canyon Zone.brstm
+	Volume: 80
+	Frequency: 40
+
+	Bullet Station
+	Gabe's Picks\Bullet Station\Sonic Heroes - Bullet Station Zone.brstm
+	Volume: 80
+	Frequency: 40
+
+	Egg Albatross
+	Gabe's Picks\Bullet Station\Sonic Heroes - Egg Albatross.brstm
+	Volume: 80
+	Frequency: 40
+
+	Rail Canyon Act 1 (Shadow Generations)
+	Gabe's Picks\Bullet Station\Shadow Generations - Rail Canyon Act 1.brstm
+	Volume: 80
+	Frequency: 40
+
+	Rail Canyon Act 2 (Bullet Station Remix)
+	Gabe's Picks\Bullet Station\Shadow Generations - Rail Canyon Act 2 (Bullet Station).brstm
 	Volume: 80
 	Frequency: 40
 
@@ -200,6 +266,51 @@ Dream_Land.tlst - 7 tracks
 	Frequency: 40
 
 ################
+Final_Destination.tlst - 8 tracks
+
+	F-Zero Densetsu Theme- The Meaning of Truth
+	Gabe's Picks\Final Destination\F-Zero Densetsu Theme- The Meaning of Truth.brstm
+	Volume: 80
+	Frequency: 40
+
+	It Has Come to This - Battle with Erazor Djinn
+	Gabe's Picks\Final Destination\It Has Come to This - Battle with Erazor Djinn.brstm
+	Volume: 80
+	Frequency: 40
+
+	Mortar Canyon
+	Gabe's Picks\Final Destination\Mortar Canyon.brstm
+	Volume: 80
+	Frequency: 40
+
+	Solaris Phase 2
+	Gabe's Picks\Final Destination\Solaris Phase 2.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Advance 3 - Nonagression (Remix)
+	Gabe's Picks\Final Destination\Sonic Advance 3 - Nonagression (Remix).brstm
+	Volume: 80
+	Frequency: 40
+
+	Wrapped in Black (Digital Remakin' Trax)
+	Gabe's Picks\Final Destination\Wrapped in Black (Digital Remakin' Trax).brstm
+	Volume: 80
+	Frequency: 40
+
+	Rage Awakened
+	Gabe's Picks\Final Destination\Rage Awakened.brstm
+	Volume: 80
+	Frequency: 40
+
+	F-Zero GX - Phantom Road
+	Gabe's Picks\Final Destination\F-Zero GX - Phantom Road.brstm
+	Volume: 80
+	[PINCH MODE TRACK: 3600 frames]
+	Gabe's Picks\Final Destination\F-Zero GX - Phantom Road_b.brstm
+	Frequency: 40
+
+################
 Fountain_Of_Dreams.tlst - 7 tracks
 
 	Aquatic Time (Sonic Riders Zero Gravity)
@@ -290,6 +401,114 @@ Frigate_Husk.tlst - 9 tracks
 	Frequency: 40
 
 ################
+Green_Hill_Zone_Bad_Future.tlst - 16 tracks
+
+	Palmtree Panic Bad Future (JPN/PAL)
+	Gabe's Picks\Green Hill - Bad Future\Sonic the Hedgehog CD - Palmtree Panic Bad Future (JPN_PAL).brstm
+	Volume: 80
+	Frequency: 100
+
+	Sonic the Hedgehog CD - Boss!! (JPN/PAL)
+	Gabe's Picks\Green Hill - Bad Future\Sonic the Hedgehog CD - Boss!! (JPN_PAL) (Unused Custom Loop).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Mania (Plus) - Mini Boss Theme
+	Gabe's Picks\Green Hill - Bad Future\Sonic Mania (Plus) - Mini Boss Theme (Danger on the Dance Floor).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Galactic OST - Mid Boss
+	Gabe's Picks\Green Hill - Bad Future\Sonic Galactic OST - Mid Boss - Robot Rap Battle.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Generations (3DS) - Boss - Big Arms
+	Gabe's Picks\Green Hill - Bad Future\Sonic Generations (3DS) - Boss - Big Arms (Sonic 3 Final Boss).brstm
+	Volume: 80
+	Frequency: 40
+
+	Oil Desert Zone Act 3 - Bridge Capper
+	Gabe's Picks\Green Hill - Bad Future\Oil Desert Zone Act 3 - Bridge Capper.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Rush Adventure - Boss (Remastered)
+	Gabe's Picks\Green Hill - Bad Future\Sonic Rush Adventure - Boss (Remastered).brstm
+	Volume: 80
+	Frequency: 40
+
+	Flying Battery Zone (Sonic 3)
+	Chadcord/Green Hill/Flying Battery.brstm
+	Volume: 75
+	Frequency: 40
+
+	Giant Wing (Sonic the Fighters)
+	Chadcord/Green Hill/Giant Wing.brstm
+	Volume: 75
+	Frequency: 40
+
+	Rail Canyon (Sonic Heroes)
+	Chadcord/Green Hill/Rail Canyon.brstm
+	Volume: 75
+	Frequency: 40
+
+	Egg Emperor (Sonic Heroes)
+	Chadcord/Green Hill/Egg Emperor.brstm
+	Volume: 75
+	Frequency: 40
+
+	What I'm Made Of (Sonic Heroes)
+	Chadcord/Green Hill/What I'm Made of.brstm
+	Volume: 80
+	Frequency: 40
+
+	Cyber Track (Sonic Advance 3)
+	Chadcord/Green Hill/Cyber Track.brstm
+	Volume: 70
+	Frequency: 40
+
+	Get Edgy (Sonic Rush)
+	Chadcord/Green Hill/Get Edgy.brstm
+	Volume: 75
+	Frequency: 40
+
+	Lava Powerhouse (Sonic: After the Sequel)
+	Chadcord/Green Hill/Lava Powerhouse.brstm
+	Volume: 80
+	Frequency: 40
+
+	Enemy Territory (Sonic Forces)
+	Chadcord/Green Hill/Enemy Territory.brstm
+	Volume: 80
+	Frequency: 40
+
+################
+Jokers_Room.tlst - 4 tracks
+
+	Joker's Room - Fighters Destiny
+	Gabe's Picks\Joker's Room\Joker's Room - Fighters Destiny.brstm
+	Volume: 95
+	Frequency: 40
+
+	THE WORLD REVOLVING
+	Gabe's Picks\Joker's Room\DELTARUNE Chapter 1 - THE WORLD REVOLVING.brstm
+	Volume: 80
+	Frequency: 40
+
+	BIG SHOT (OST Version)
+	Gabe's PIcks\Joker's Room\DELTARUNE Chapter 2 - BIG SHOT (OST Version).brstm
+	Volume: 80
+	Frequency: 40
+
+	F-Zero GX - Vegas Palace
+	I09.brstm
+	Volume: 80
+	[PINCH MODE TRACK: 3600 frames]
+	I09_b.brstm
+	Frequency: 40
+
+################
 Luigis_Mansion.tlst - 9 tracks
 
 	Persona 3 - Battle For Everyones Souls
@@ -338,7 +557,7 @@ Luigis_Mansion.tlst - 9 tracks
 	Frequency: 40
 
 ################
-Menu.tlst - 16 tracks
+Menu.tlst - 19 tracks
 
 	Funky Groove Makes U Hot!
 	Gabe's Picks\Menu\Sonic Adventure - Funky Groove Makes U Hot!.brstm
@@ -417,6 +636,21 @@ Menu.tlst - 16 tracks
 
 	Yu yu Hakusho - Unbalanced Kiss (English)
 	Gabe's Picks\Menu\Yu yu Hakusho - Unbalanced Kiss (English).brstm
+	Volume: 80
+	Frequency: 40
+
+	Air Gear - Uneasiness of Funkness
+	Gabe's Picks\Menu\Air Gear - Uneasiness of Funkness.brstm
+	Volume: 80
+	Frequency: 40
+
+	Air Gear - OST - 25 Overkooled
+	Gabe's Picks\Menu\Air Gear - OST - 25 Overkooled.brstm
+	Volume: 80
+	Frequency: 40
+
+	GTA IV - Soviet Connection
+	Gabe's Picks\Menu\Grand Theft Auto IV - Soviet Connection (Intro Cut).brstm
 	Volume: 80
 	Frequency: 40
 
@@ -541,34 +775,6 @@ Pokemon_Stadium_2.tlst - 15 tracks
 	Frequency: 40
 
 ################
-Bullet_Station.tlst - 5 tracks
-
-	Rail Canyon
-	Gabe's Picks\Bullet Station\Sonic Heroes - Rail Canyon Zone.brstm
-	Volume: 80
-	Frequency: 40
-
-	Bullet Station
-	Gabe's Picks\Bullet Station\Sonic Heroes - Bullet Station Zone.brstm
-	Volume: 80
-	Frequency: 40
-
-	Egg Albatross
-	Gabe's Picks\Bullet Station\Sonic Heroes - Egg Albatross.brstm
-	Volume: 80
-	Frequency: 40
-
-	Rail Canyon Act 1 (Shadow Generations)
-	Gabe's Picks\Bullet Station\Shadow Generations - Rail Canyon Act 1.brstm
-	Volume: 80
-	Frequency: 40
-
-	Rail Canyon Act 2 (Bullet Station Remix)
-	Gabe's Picks\Bullet Station\Shadow Generations - Rail Canyon Act 2 (Bullet Station).brstm
-	Volume: 80
-	Frequency: 40
-
-################
 Smashville.tlst - 10 tracks
 
 	NOW'S YOUR CHANCE TO BE A - Deltarune - SiIvagunner
@@ -657,7 +863,7 @@ Smashville_Tropical.tlst - 6 tracks
 	Frequency: 40
 
 ################
-Temple_of_Time.tlst - 11 tracks
+Temple_of_Time.tlst - 12 tracks
 
 	Dark Wastes (Fire)
 	Gabe's Picks\Temple of Time\Fire Emblem Fates Music Extended - Dark Wastes (Fire).brstm
@@ -718,6 +924,11 @@ Temple_of_Time.tlst - 11 tracks
 	Volume: 80
 	Frequency: 40
 
+	DBZ Budokai - Challengers
+	Gabe's Picks\Temple of Time\Dragon Ball Z Budokai - Challengers.brstm
+	Volume: 80
+	Frequency: 40
+
 ################
 Wario_Land.tlst - 10 tracks
 
@@ -769,121 +980,5 @@ Wario_Land.tlst - 10 tracks
 	Freaky Fight Against T.O.W. Freaked It (FINESSEQUEST)
 	Chadcord\Wario Land\Freaky Fight.brstm
 	Volume: 115
-	Frequency: 40
-
-################
-Yoshis_Island.tlst - 6 tracks
-
-	Sonic Frontiers - Cyber Space 1-6 (Go Back 2 Your Roots)
-	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 1-6 (Go Back 2 Your Roots).brstm
-	Volume: 80
-	Frequency: 40
-
-	Sonic Frontiers - Cyber Space 3-2 (Go Slap)
-	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 3-2 (Go Slap).brstm
-	Volume: 80
-	Frequency: 40
-
-	Sonic Frontiers - Cyber Space 4-6 (Fog Funk)
-	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 4-6 (Fog Funk).brstm
-	Volume: 80
-	Frequency: 40
-
-	Sonic Frontiers - Cyber Space 4-9 (Signs)
-	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 4-9 (Signs).brstm
-	Volume: 80
-	Frequency: 40
-
-	On & On - Piri & Tommy (Instrumental)
-	Gabe's Picks\Yoshi's Island\On & On - Piri & Tommy (Instrumental).brstm
-	Volume: 80
-	Frequency: 40
-
-	Regular Show - Gary vs. David
-	Gabe's Picks\Yoshi's Island\Regular Show - Gary vs David.brstm
-	Volume: 80
-	Frequency: 40
-
-################
-Green_Hill_Zone_Bad_Future.tlst - 16 tracks
-
-	Palmtree Panic Bad Future (JPN/PAL)
-	Gabe's Picks\Green Hill - Bad Future\Sonic the Hedgehog CD - Palmtree Panic Bad Future (JPN_PAL).brstm
-	Volume: 80
-	Frequency: 100
-
-	Sonic the Hedgehog CD - Boss!! (JPN/PAL)
-	Gabe's Picks\Green Hill - Bad Future\Sonic the Hedgehog CD - Boss!! (JPN_PAL) (Unused Custom Loop).brstm
-	Volume: 80
-	Frequency: 40
-
-	Sonic Mania (Plus) - Mini Boss Theme
-	Gabe's Picks\Green Hill - Bad Future\Sonic Mania (Plus) - Mini Boss Theme (Danger on the Dance Floor).brstm
-	Volume: 80
-	Frequency: 40
-
-	Sonic Galactic OST - Mid Boss
-	Gabe's Picks\Green Hill - Bad Future\Sonic Galactic OST - Mid Boss - Robot Rap Battle.brstm
-	Volume: 80
-	Frequency: 40
-
-	Sonic Generations (3DS) - Boss - Big Arms
-	Gabe's Picks\Green Hill - Bad Future\Sonic Generations (3DS) - Boss - Big Arms (Sonic 3 Final Boss).brstm
-	Volume: 80
-	Frequency: 40
-
-	Oil Desert Zone Act 3 - Bridge Capper
-	Gabe's Picks\Green Hill - Bad Future\Oil Desert Zone Act 3 - Bridge Capper.brstm
-	Volume: 80
-	Frequency: 40
-
-	Sonic Rush Adventure - Boss (Remastered)
-	Gabe's Picks\Green Hill - Bad Future\Sonic Rush Adventure - Boss (Remastered).brstm
-	Volume: 80
-	Frequency: 40
-
-	Flying Battery Zone (Sonic 3)
-	Chadcord/Green Hill/Flying Battery.brstm
-	Volume: 75
-	Frequency: 40
-
-	Giant Wing (Sonic the Fighters)
-	Chadcord/Green Hill/Giant Wing.brstm
-	Volume: 75
-	Frequency: 40
-
-	Rail Canyon (Sonic Heroes)
-	Chadcord/Green Hill/Rail Canyon.brstm
-	Volume: 75
-	Frequency: 40
-
-	Egg Emperor (Sonic Heroes)
-	Chadcord/Green Hill/Egg Emperor.brstm
-	Volume: 75
-	Frequency: 40
-
-	What I'm Made Of (Sonic Heroes)
-	Chadcord/Green Hill/What I'm Made of.brstm
-	Volume: 80
-	Frequency: 40
-
-	Cyber Track (Sonic Advance 3)
-	Chadcord/Green Hill/Cyber Track.brstm
-	Volume: 70
-	Frequency: 40
-
-	Get Edgy (Sonic Rush)
-	Chadcord/Green Hill/Get Edgy.brstm
-	Volume: 75
-	Frequency: 40
-
-	Lava Powerhouse (Sonic: After the Sequel)
-	Chadcord/Green Hill/Lava Powerhouse.brstm
-	Volume: 80
-	Frequency: 40
-
-	Enemy Territory (Sonic Forces)
-	Chadcord/Green Hill/Enemy Territory.brstm
-	Volume: 80
 	Frequency: 40
 
