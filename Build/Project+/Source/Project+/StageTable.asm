@@ -401,7 +401,7 @@ byte 65 @ $800AF673 # Stage Count
 * E0000000 80008000
 
 ######################################################################################
-2023 Proposed [Moto]
+2025 MI Doubles [DHS7]
 ######################################################################################
 * 286AEDF4 00000003 # If 806AEDF4 is equal to 3
 
@@ -420,19 +420,18 @@ byte 65 @ $800AF673 # Stage Count
 .GOTO->SkipStageTables
 
 TABLE_1:
-	byte[12] |
-0x0C, | # Yoshi's Island
+	byte[11] |
+0x05, | # Bowser's Castle
+0x30, | # Dead Line
+0x03, | # Luigi's Mansion
+0x01, | # Final Destination
 0x0B, | # Frigate Husk
-0x23, | # Dream Land
-0x08, | # Temple of Time
 0x1A, | # Smashville
 0x00, | # Battlefield
 0x28, | # Pokemon Stadium 2
-0x03, | # Luigi's Mansion
+0x23, | # Dream Land
 0x2B, | # Training Room
 0x2B, | # Training Room
-0x2B, | # Training Room
-0x2B  | # Training Room
 
 
 TABLE_2:
@@ -440,7 +439,7 @@ TABLE_2:
 0x24, | # Peach's Castle
 0x04, | # Metal Cavern
 0x02, | # Delfino's Secret
-0x05, | # Bowser's Castle
+0x0C, | # Yoshi's Island
 0x40, | # Bowser's Keep
 0x15, | # Wario Land
 0x20, | # Yoshi's Story
@@ -464,11 +463,11 @@ TABLE_2:
 0x1B, | # Shadow Moses Island
 0x1C, | # Green Hill Zone
 0x41, | # Chaos Angel
-0x01, | # Final Destination
+0x08, | # Temple of Time
 0x2B  | # Training Room
 
 TABLE_3:
-	byte[28] |
+	byte[27] |
 0x31, | # Dinosaur Land
 0x2D, | # Mario Circuit
 0x38, | # Mushroom Kingdom
@@ -493,7 +492,6 @@ TABLE_3:
 0x37, | # Venus Lighthouse
 0x2C, | # Dracula's Castle
 0x1E, | # Sky Sanctuary Zone
-0x30, | # Dead Line
 0x13, | # Flat Zone 2
 0x1D, | # PictoChat
 0x3A  | # Subspace
@@ -529,9 +527,9 @@ half[67] |	# Stage Count + 2
 SkipStageTables:
 .RESET
 * 286AEDF4 00000003 # If 806AEDF4 is equal to 3
-byte 12 @ $806B929C # Page 1
+byte 11 @ $806B929C # Page 1
 byte 29 @ $806B92A4 # Page 2
-byte 28 @ $80496002 # Page 3
+byte 27 @ $80496002 # Page 3
 byte 00 @ $80496003 # Page 4 (Unused)
 byte 00 @ $80496004 # Page 5 (Unused)
 byte 65 @ $800AF673 # Stage Count

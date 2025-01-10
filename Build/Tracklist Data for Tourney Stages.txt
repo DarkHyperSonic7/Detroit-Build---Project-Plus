@@ -1,4 +1,32 @@
 ################
+Yoshis_Island.tlst - 5 tracks
+
+	Sonic Frontiers - Cyber Space 1-6 (Go Back 2 Your Roots)
+	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 1-6 (Go Back 2 Your Roots).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Frontiers - Cyber Space 3-2 (Go Slap)
+	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 3-2 (Go Slap).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Frontiers - Cyber Space 4-6 (Fog Funk)
+	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 4-6 (Fog Funk).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic Frontiers - Cyber Space 4-9 (Signs)
+	Gabe's Picks\Yoshi's Island\Sonic Frontiers - Cyber Space 4-9 (Signs).brstm
+	Volume: 80
+	Frequency: 40
+
+	On & On - Piri & Tommy (Instrumental)
+	Gabe's Picks\Yoshi's Island\On & On - Piri & Tommy (Instrumental).brstm
+	Volume: 80
+	Frequency: 40
+
+################
 Battlefield.tlst - 13 tracks
 
 	F-Zero GX - Cover of Red Canyon's Theme
@@ -179,6 +207,59 @@ Dead_Line.tlst - 6 tracks
 	Frequency: 40
 
 ################
+Delfino_Secret.tlst - 10 tracks
+
+	Clock Tower (Super Monkey Ball 2)
+	Chadcord\Delfino's Secret\Clock Tower.brstm
+	Volume: 85
+	Frequency: 40
+
+	Coconut Mall (Mario Kart Wii)
+	Chadcord\Delfino's Secret\Coconut Mall.brstm
+	Volume: 70
+	Frequency: 40
+
+	Steam Gardens (Super Mario Odyssey)
+	Chadcord\Delfino's Secret\Steam Gardens.brstm
+	Volume: 85
+	Frequency: 40
+
+	Katamari on the Rocks (Katamari Damacy)
+	Chadcord\Delfino's Secret\Katamari on the Rocks.brstm
+	Volume: 65
+	Frequency: 40
+
+	Big Blue (F-Zero GX)
+	Chadcord\Delfino's Secret\Big Blue.brstm
+	Volume: 65
+	Frequency: 40
+
+	A Secret Course (Super Mario Sunshine)
+	Chadcord\Delfino's Secret\A Secret Course.brstm
+	Volume: 100
+	Frequency: 40
+
+	Gusty Garden (Super Mario Galaxy)
+	Chadcord\Delfino's Secret\Gusty Garden Galaxy.brstm
+	Volume: 80
+	Frequency: 40
+
+	Mushroom Bridge (Mario Kart: Double Dash!)
+	Chadcord\Delfino's Secret\Mushroom Bridge.brstm
+	Volume: 85
+	Frequency: 40
+
+	Bowser's Galaxy Generator (Super Mario Galaxy 2)
+	Chadcord\Delfino's Secret\Bowser's Galaxy Generator.brstm
+	Volume: 90
+	Frequency: 40
+
+	Mountain Rest (plusol)
+	Chadcord\Delfino's Secret\Mountain Rest.brstm
+	Volume: 90
+	Frequency: 40
+
+################
 Dream_Land.tlst - 7 tracks
 
 	Kingdom Hearts 3D Dream Drop Distance - All for One
@@ -262,7 +343,45 @@ Final_Destination.tlst - 8 tracks
 	Frequency: 40
 
 ################
-Frigate_Husk.tlst - 9 tracks
+Fountain_Of_Dreams.tlst - 7 tracks
+
+	Aquatic Time (Sonic Riders Zero Gravity)
+	Gabe's Picks\Fountain of Dreams\Aquatic Time (Sonic Riders Zero Gravity).brstm
+	Volume: 80
+	Frequency: 40
+
+	Moonlit Battlefield
+	Gabe's Picks\Fountain of Dreams\Moonlit Battlefield.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ocean Base Zone Act 1 - teckworks Cover
+	Gabe's Picks\Fountain of Dreams\Ocean Base Zone Act 1 - teckworks Cover.brstm
+	Volume: 80
+	Frequency: 40
+
+	Planet Wisp Act 1
+	Gabe's Picks\Fountain of Dreams\Planet Wisp Act 1.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sea Bottom Segue
+	Gabe's Picks\Fountain of Dreams\Sea Bottom Segue.brstm
+	Volume: 80
+	Frequency: 40
+
+	Rowdy Rumble
+	Gabe's Picks\Fountain of Dreams\Kingdom Hearts HD 2.5 ReMIX - Rowdy Rumble.brstm
+	Volume: 80
+	Frequency: 40
+
+	The Champion Mipha (Enemy Outpost)
+	Gabe's Picks\Fountain of Dreams\The Champion Mipha (Enemy Outpost).brstm
+	Volume: 80
+	Frequency: 40
+
+################
+Frigate_Husk.tlst - 10 tracks
 
 	F-Zero GX - Cosmo Terminal
 	Gabe's Picks\Frigate Husk\F-Zero GX - Cosmo Terminal.brstm
@@ -310,6 +429,11 @@ Frigate_Husk.tlst - 9 tracks
 
 	Show no Tears - NemesisTheory
 	Gabe's Picks\Frigate Husk\Show no Tears - NemesisTheory.brstm
+	Volume: 80
+	Frequency: 40
+
+	Bomberman Hero - Tripod
+	Gabe's Picks\Frigate Husk\Bomberman Hero - Tripod.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -397,7 +521,7 @@ Green_Hill_Zone_Bad_Future.tlst - 16 tracks
 	Frequency: 40
 
 ################
-Jokers_Room.tlst - 4 tracks
+Jokers_Room.tlst - 5 tracks
 
 	Joker's Room - Fighters Destiny
 	Gabe's Picks\Joker's Room\Joker's Room - Fighters Destiny.brstm
@@ -421,8 +545,13 @@ Jokers_Room.tlst - 4 tracks
 	I09_b.brstm
 	Frequency: 40
 
+	BALATRO [N163]
+	Gabe's Picks\Joker's Room\BALATRO [N163].brstm
+	Volume: 80
+	Frequency: 40
+
 ################
-Luigis_Mansion.tlst - 9 tracks
+Luigis_Mansion.tlst - 10 tracks
 
 	Persona 3 - Battle For Everyones Souls
 	Gabe's Picks\Luigi's Mansion\Battle For Everyones Souls.brstm
@@ -466,6 +595,11 @@ Luigis_Mansion.tlst - 9 tracks
 
 	Moonlit Battlefield
 	Gabe's Picks\Fountain of Dreams\Moonlit Battlefield.brstm
+	Volume: 80
+	Frequency: 40
+
+	Regular Show - Gary vs David
+	Gabe's Picks\Luigi's Mansion\Regular Show - Gary vs David.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -564,6 +698,44 @@ Menu.tlst - 19 tracks
 
 	GTA IV - Soviet Connection
 	Gabe's Picks\Menu\Grand Theft Auto IV - Soviet Connection (Intro Cut).brstm
+	Volume: 80
+	Frequency: 40
+
+################
+Metal_Cavern.tlst - 7 tracks
+
+	Crystal Cave
+	Gabe's Picks\Metal Cavern\Crystal Cave.brstm
+	Volume: 80
+	Frequency: 40
+
+	Gimmick Mountain Classic - NicoCW
+	Gabe's Picks\Metal Cavern\Gimmick Mountain Classic - NicoCW.brstm
+	Volume: 80
+	Frequency: 40
+
+	Lava Reef Zone Act 2 (Sonic Mania)
+	Gabe's Picks\Metal Cavern\Lava Reef Zone Act 2 (Sonic Mania).brstm
+	Volume: 80
+	Frequency: 40
+
+	Sealed Ground (Sonic Riders Zero Gravity)
+	Gabe's Picks\Metal Cavern\Sealed Ground (Sonic Riders Zero Gravity).brstm
+	Volume: 80
+	Frequency: 40
+
+	Tee Lopes - Mystic Cave Zone
+	Gabe's Picks\Metal Cavern\Tee Lopes - Mystic Cave Zone.brstm
+	Volume: 80
+	Frequency: 40
+
+	The White of Sky (Skeleton Dome)
+	Gabe's Picks\Metal Cavern\The White of Sky (Skeleton Dome).brstm
+	Volume: 80
+	Frequency: 40
+
+	Metal Battle (Super Smash Bros. Melee)
+	Melee\Metal Battle.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -688,7 +860,7 @@ Radical_Highway.tlst - 7 tracks
 	Frequency: 40
 
 ################
-Smashville.tlst - 10 tracks
+Smashville.tlst - 11 tracks
 
 	NOW'S YOUR CHANCE TO BE A - Deltarune - SiIvagunner
 	Gabe's Picks\Smashville\NOW'S YOUR CHANCE TO BE A - Deltarune - SiIvagunner.brstm
@@ -738,6 +910,38 @@ Smashville.tlst - 10 tracks
 	Be Cool, Be Wild and Be Groovy [S.A.M.E. version (2016)]
 	Gabe's Picks\Smashville\Be Cool, Be Wild and Be Groovy [S.A.M.E. version (2016)].brstm
 	Volume: 80
+	Frequency: 40
+
+	"Redial"
+	Gabe's Picks\Smashville\Redial - Bomberman Hero (Custom Mix).brstm
+	Volume: 80
+	Frequency: 40
+
+################
+Smashville_Concert.tlst - 6 tracks
+
+	K.K. Cruisin'
+	N07.brstm (0x27B9)
+	Frequency: 40
+
+	K.K. Western
+	N08.brstm (0x27BA)
+	Frequency: 40
+
+	K.K. Gumbo
+	N09.brstm (0x27BB)
+	Frequency: 40
+
+	Rockin' K.K.
+	N10.brstm (0x27BC)
+	Frequency: 40
+
+	DJ K.K.
+	N11.brstm (0x27BD)
+	Frequency: 40
+
+	K.K. Condor
+	N12.brstm (0x27BE)
 	Frequency: 40
 
 ################
@@ -868,5 +1072,58 @@ Temple_of_Time.tlst - 12 tracks
 	DBZ Budokai - Challengers
 	Gabe's Picks\Temple of Time\Dragon Ball Z Budokai - Challengers.brstm
 	Volume: 80
+	Frequency: 40
+
+################
+Wario_Land.tlst - 10 tracks
+
+	Magnus von Grapple (Paper Mario: TTYD)
+	Chadcord\Wario Land\Magnus von Grapple.brstm
+	Volume: 60
+	Frequency: 40
+
+	Magilou, The Great Sorceress (Tales of Berseria)
+	Chadcord\Wario Land\Magilou, The Great Sorceress.brstm
+	Volume: 65
+	Frequency: 40
+
+	Giorno's Theme (JoJo's Bizarre Adventure)
+	Chadcord\Wario Land\Giorno's Theme.brstm
+	Volume: 75
+	Frequency: 40
+
+	Cauldron Rave (Cerebrawl)
+	Chadcord\Wario Land\Cauldron Rave.brstm
+	Volume: 80
+	Frequency: 40
+
+	Crazy Noisy Bizarre Town (JoJo's Bizarre Adventure)
+	Chadcord\Wario Land\Crazy Noisy Bizarre Town.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ain't Nothin' Like a Funky Beat (Lethal League Blaze)
+	Chadcord\Wario Land\Ain't Nothin' Like a Funky Beat.brstm
+	Volume: 70
+	Frequency: 40
+
+	Flyers (Death Parade)
+	Chadcord\Wario Land\Flyers.brstm
+	Volume: 65
+	Frequency: 40
+
+	Elegant Summer (Melty Blood)
+	Chadcord\Wario Land\Elegant Summer.brstm
+	Volume: 65
+	Frequency: 40
+
+	Teknopathetic (Ollie King)
+	Chadcord\Wario Land\Teknopathetic.brstm
+	Volume: 90
+	Frequency: 40
+
+	Freaky Fight Against T.O.W. Freaked It (FINESSEQUEST)
+	Chadcord\Wario Land\Freaky Fight.brstm
+	Volume: 115
 	Frequency: 40
 
