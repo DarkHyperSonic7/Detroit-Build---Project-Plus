@@ -668,7 +668,7 @@ byte 65 @ $800AF673 # Stage Count
 * E0000000 80008000
 
 ######################################################################################
-Ontario [Moto]
+Ontario 2025 Singles [PNUT, DHS7]
 ######################################################################################
 * 286AEDF4 00000005 # If 806AEDF4 is equal to 5
 
@@ -688,62 +688,75 @@ Ontario [Moto]
 
 TABLE_1:
 	byte[11] |
-0x41, | # Chaos Angel
-0x40, | # Bowser's Keep
-0x2C, | # Dracula's Castle
+0x1C, | # Green Hill Zone
+0x09, | # Hyrule Castle
 0x03, | # Luigi's Mansion
-0x42, | # Great Fairy Fountain
+0x06, | # Kongo Jungle
+0x2C, | # Dracula's Castle
 0x1A, | # Smashville
 0x00, | # Battlefield
 0x28, | # Pokemon Stadium 2
-0x06, | # Kongo Jungle
+0x40, | # Bowser's Keep
 0x2B, | # Training Room
 0x2B  | # Training Room
 
 TABLE_2:
-	byte[29] |
+	byte[19] |
 0x24, | # Peach's Castle
-0x04, | # Metal Cavern
-0x02, | # Delfino's Secret
 0x05, | # Bowser's Castle
-0x0C, | # Yoshi's Island
-0x15, | # Wario Land
-0x20, | # Yoshi's Story
-0x07, | # Rumble Falls
-0x09, | # Hyrule Castle
+0x19, | # Fourside
 0x08, | # Temple of Time
-0x1F, | # Temple
-0x22, | # Onett
-0x23, | # Dream Land
-0x0D, | # Halberd
+0x20, | # Yoshi's Story
+0x14, | # Castle Siege
+0x1E, | # Sky Sanctuary Zone
+0x21, | # Golden Temple
+0x01, | # Final Destination
+0x30, | # Dead Line
+0x06, | # Kongo Jungle
+0x15, | # Wario Land
+0x18, | # Fountain of Dreams
 0x0B, | # Frigate Husk
+0x1A, | # Smashville
+0x00, | # Battlefield
+0x28, | # Pokemon Stadium 2
+0x06, | # Kongo Jungle
+0x2B  | # Training Room
+
+TABLE_3:
+	byte[17] |
+0x23, | # Dream Land
+0x02, | # Delfino's Secret
+0x04, | # Metal Cavern
+0x0A, | # Ceres Space Colony
+0x16, | # Distant Planet
+0x0C, | # Yoshi's Island
+0x07, | # Rumble Falls
+0x1F, | # Temple
+0x0D, | # Halberd
 0x27, | # Planet Zebes
 0x0F, | # Saffron City
 0x10, | # Spear Pillar
 0x25, | # Corneria
 0x0E, | # Lylat Cruise
-0x19, | # Fourside
+0x22, | # Onett
 0x12, | # Infinite Glacier
 0x26, | # Big Blue
+
+
+TABLE_4:	
+	byte[23] |
 0x11, | # Port Town Aero Dive
+0x13, | # Flat Zone 2
 0x17, | # Skyworld
 0x1B, | # Shadow Moses Island
-0x1C, | # Green Hill Zone
-0x01, | # Final Destination
-0x2B  | # Training Room
-
-TABLE_3:
-	byte[27] |
+0x1D, | # PictoChat
 0x31, | # Dinosaur Land
 0x2D, | # Mario Circuit
 0x38, | # Mushroom Kingdom
-0x3F, | # Mushroom Kingdom II
 0x3B, | # Rainbow Cruise
 0x32, | # Oil Drum Alley
 0x33, | # Jungle Japes
-0x21, | # Golden Temple
 0x36, | # Cookie Country
-0x18, | # Fountain of Dreams
 0x2E, | # Clock Town
 0x3D, | # Pirate Ship
 0x39, | # WarioWare, Inc.
@@ -751,19 +764,11 @@ TABLE_3:
 0x34, | # Bell Tower
 0x35, | # Norfair
 0x3E, | # Venom
-0x0A, | # Ceres Space Colony
-0x14, | # Castle Siege
-0x16, | # Distant Planet
 0x2F, | # Hanenbow
 0x37, | # Venus Lighthouse
-0x1E, | # Sky Sanctuary Zone
 0x30, | # Dead Line
-0x13, | # Flat Zone 2
-0x1D, | # PictoChat
 0x3A  | # Subspace
 
-
-TABLE_4:	# Unused
 TABLE_5:	# Unused
 
 TABLE_STAGES:
@@ -794,11 +799,11 @@ SkipStageTables:
 .RESET
 * 286AEDF4 00000005 # If 806AEDF4 is equal to 5
 byte 11 @ $806B929C # Page 1
-byte 29 @ $806B92A4 # Page 2
-byte 27 @ $80496002 # Page 3
-byte 00 @ $80496003 # Page 4 (Unused)
+byte 19 @ $806B92A4 # Page 2
+byte 17 @ $80496002 # Page 3
+byte 23 @ $80496003 # Page 4
 byte 00 @ $80496004 # Page 5 (Unused)
-byte 65 @ $800AF673 # Stage Count
+byte 69 @ $800AF673 # Stage Count
 * E0000000 80008000
 
 ######################################################################################
@@ -934,7 +939,7 @@ byte 65 @ $800AF673 # Stage Count
 * E0000000 80008000
 
 ######################################################################################
-Tenkaichi [Moto]
+ONPM 2025 Doubles [PNUT, DHS7]
 ######################################################################################
 * 286AEDF4 00000007 # If 806AEDF4 is equal to 7
 
@@ -953,60 +958,69 @@ Tenkaichi [Moto]
 .GOTO->SkipStageTables
 
 TABLE_1:
-	byte[10] |
-0x1C, | # Green Hill Zone
-0x05, | # Bowser's Castle
+	byte[8] |
+0x01, | # Final Destination
+0x30, | # Dead Line
+0x06, | # Kongo Jungle
 0x0B, | # Frigate Husk
-0x03, | # Luigi's Mansion
-0x23, | # Dream Land
-0x08, | # Temple of Time
 0x1A, | # Smashville
-0x3F, | # Mushroom Kingdom II
 0x00, | # Battlefield
-0x28  | # Pokemon Stadium 2
+0x28, | # Pokemon Stadium 2
+0x03, | # Luigi's Mansion
 
 TABLE_2:
-	byte[28] |
-0x24, | # Peach's Castle
-0x04, | # Metal Cavern
-0x02, | # Delfino's Secret
+	byte[16] |
 0x40, | # Bowser's Keep
+0x24, | # Peach's Castle
+0x05, | # Bowser's Castle
 0x0C, | # Yoshi's Island
-0x15, | # Wario Land
+0x19, | # Fourside
+0x08, | # Temple of Time
 0x20, | # Yoshi's Story
-0x06, | # Kongo Jungle
-0x07, | # Rumble Falls
+0x14, | # Castle Siege
+0x1E, | # Sky Sanctuary Zone
+0x21, | # Golden Temple
+0x1C, | # Green Hill Zone
 0x09, | # Hyrule Castle
+0x15, | # Wario Land
+0x18, | # Fountain of Dreams
+0x2C, | # Dracula's Castle
+0x2B  | # Training Room
+
+TABLE_3:
+	byte[16] |
+0x23, | # Dream Land
+0x02, | # Delfino's Secret
+0x04, | # Metal Cavern
+0x0A, | # Ceres Space Colony
+0x16, | # Distant Planet
+0x07, | # Rumble Falls
 0x1F, | # Temple
-0x42, | # Great Fairy Fountain
-0x22, | # Onett
 0x0D, | # Halberd
 0x27, | # Planet Zebes
 0x0F, | # Saffron City
 0x10, | # Spear Pillar
 0x25, | # Corneria
 0x0E, | # Lylat Cruise
-0x19, | # Fourside
+0x22, | # Onett
 0x12, | # Infinite Glacier
 0x26, | # Big Blue
+
+
+TABLE_4:	
+	byte[22] |
 0x11, | # Port Town Aero Dive
+0x13, | # Flat Zone 2
 0x17, | # Skyworld
 0x1B, | # Shadow Moses Island
-0x41, | # Chaos Angel
-0x01, | # Final Destination
-0x2B  | # Training Room
-
-TABLE_3:
-	byte[27] |
+0x1D, | # PictoChat
 0x31, | # Dinosaur Land
 0x2D, | # Mario Circuit
 0x38, | # Mushroom Kingdom
 0x3B, | # Rainbow Cruise
 0x32, | # Oil Drum Alley
 0x33, | # Jungle Japes
-0x21, | # Golden Temple
 0x36, | # Cookie Country
-0x18, | # Fountain of Dreams
 0x2E, | # Clock Town
 0x3D, | # Pirate Ship
 0x39, | # WarioWare, Inc.
@@ -1014,20 +1028,10 @@ TABLE_3:
 0x34, | # Bell Tower
 0x35, | # Norfair
 0x3E, | # Venom
-0x0A, | # Ceres Space Colony
-0x14, | # Castle Siege
-0x16, | # Distant Planet
 0x2F, | # Hanenbow
 0x37, | # Venus Lighthouse
-0x2C, | # Dracula's Castle
-0x1E, | # Sky Sanctuary Zone
-0x30, | # Dead Line
-0x13, | # Flat Zone 2
-0x1D, | # PictoChat
 0x3A  | # Subspace
 
-
-TABLE_4:	# Unused
 TABLE_5:	# Unused
 
 TABLE_STAGES:
@@ -1057,10 +1061,10 @@ half[67] |	# Stage Count + 2
 SkipStageTables:
 .RESET
 * 286AEDF4 00000007 # If 806AEDF4 is equal to 7
-byte 10 @ $806B929C # Page 1
-byte 28 @ $806B92A4 # Page 2
-byte 27 @ $80496002 # Page 3
-byte 00 @ $80496003 # Page 4 (Unused)
+byte 8 @ $806B929C # Page 1
+byte 16 @ $806B92A4 # Page 2
+byte 16 @ $80496002 # Page 3
+byte 22 @ $80496003 # Page 4
 byte 00 @ $80496004 # Page 5 (Unused)
-byte 65 @ $800AF673 # Stage Count
+byte 69 @ $800AF673 # Stage Count
 * E0000000 80008000
