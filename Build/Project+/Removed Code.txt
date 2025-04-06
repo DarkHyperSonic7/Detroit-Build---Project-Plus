@@ -8,3 +8,5 @@ Wario-Man Cosmetics [ds22]
 * 04455A28 42012DFF
 * 04455A2C 0B000000
 * 04455A30 00002016
+
+.include Source/ProjectM/IdleAudioFade.asm	[undo the # at the start of the code in Boost.txt]
