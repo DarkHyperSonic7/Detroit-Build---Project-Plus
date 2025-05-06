@@ -1,5 +1,12 @@
 RSBE01.txt
 
+
+Place this after STGRESULT.PAC expansion
+##########################################
+[Project+] Skip strap screen [PyotrLuzhin]
+##########################################
+op b 0x298		@ $806CADE8
+
 Place this near wario-man related codes
 ############################
 Wario-Man Cosmetics [ds22]
@@ -8,5 +15,16 @@ Wario-Man Cosmetics [ds22]
 * 04455A28 42012DFF
 * 04455A2C 0B000000
 * 04455A30 00002016
+
+Place this after Wario-Man has no fitresult
+##############################
+Giga Bowser Cosmetics [ds22]
+##############################
+* 04408AF4 00002039
+* 04455788 0B010CFF
+* 0445578C 14000000
+* 044559D8 2C012CFF
+* 044559DC 14000000
+* 044559E0 00002039
 
 .include Source/ProjectM/IdleAudioFade.asm	[undo the # at the start of the code in Boost.txt]
