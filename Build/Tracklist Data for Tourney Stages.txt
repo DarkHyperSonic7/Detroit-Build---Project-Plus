@@ -119,6 +119,49 @@ Bowsers_Castle.tlst - 8 tracks
 	Frequency: 100
 
 ################
+Bowsers_Keep.tlst - 8 tracks
+
+	FamilyJules - Forest Maze (Super Mario RPG)
+	Nuttracks/bk/Forest Maze (FamilyJules).brstm
+	Volume: 80
+	Frequency: 40
+
+	Fight Against a Somewhat Stronger Monster (Super Mario RPG)
+	NutTracks/bk/Fight Against a Somewhat Stronger Monster.brstm
+	Volume: 80
+	Frequency: 40
+
+	Fight Against Smithy (Super Mario RPG)
+	NutTracks/bk/Fight Against Smithy.brstm
+	Volume: 80
+	Frequency: 40
+
+	Fight Against Smithy, Who Likes Transforming (Super Mario RPG)
+	NutTracks/bk/Fight Against Smithy, Who Likes Transforming.brstm
+	Volume: 80
+	Frequency: 40
+
+	GaMetal - Fight Against an Armed Boss (Super Mario RPG)
+	NutTracks/bk/Fight Against an Armed Boss (GaMetal).brstm
+	Volume: 80
+	Frequency: 40
+
+	GaMetal - Fight Against Bowser (Super Mario RPG)
+	NutTracks/bk/Fight Against Bowser.brstm
+	Volume: 80
+	Frequency: 40
+
+	GaMetal - Fight Against Culex (Super Mario RPG)
+	NutTracks/bk/Fight Against Culex.brstm
+	Volume: 80
+	Frequency: 40
+
+	GaMetal - The Grand Finale (Mario and Luigi: Bowser's Inside Story)
+	NutTracks/bk/The Grand Finale (GaMetal).brstm
+	Volume: 80
+	Frequency: 40
+
+################
 Bullet_Station.tlst - 5 tracks
 
 	Rail Canyon
@@ -463,6 +506,34 @@ Frigate_Husk.tlst - 11 tracks
 	Frequency: 80
 
 ################
+Frigate_Orpheon.tlst - 6 tracks
+
+	Vs. Ridley
+	D04.brstm (0x2749)
+	Frequency: 40
+
+	Data Selection Screen
+	Y11.brstm (0x2829)
+	Frequency: 40
+
+	Vs. Parasite Queen
+	D08.brstm (0x274D)
+	Frequency: 40
+	Song delay: -1
+
+	Vs. Meta Ridley
+	D09.brstm (0x274E)
+	Frequency: 40
+
+	Sector 1
+	D06.brstm (0x274B)
+	Frequency: 40
+
+	Hunters
+	D10.brstm (0x274F)
+	Frequency: 40
+
+################
 Green_Hill_Zone_Bad_Future.tlst - 17 tracks
 
 	Palmtree Panic Bad Future (JPN/PAL)
@@ -609,7 +680,7 @@ Kongo_Jungle.tlst - 8 tracks
 	Frequency: 40
 
 	K. Rool's Acid Punk
-	DK/K. Rool's Acid Punk.brstm [BRSTM FILE MISSING]
+	NutTracks\kongo\K. Rool's Acid Punk.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -1044,33 +1115,6 @@ Smashville.tlst - 11 tracks
 	Frequency: 40
 
 ################
-Smashville_Concert.tlst - 6 tracks
-
-	K.K. Cruisin'
-	N07.brstm (0x27B9)
-	Frequency: 40
-
-	K.K. Western
-	N08.brstm (0x27BA)
-	Frequency: 40
-
-	K.K. Gumbo
-	N09.brstm (0x27BB)
-	Frequency: 40
-
-	Rockin' K.K.
-	N10.brstm (0x27BC)
-	Frequency: 40
-
-	DJ K.K.
-	N11.brstm (0x27BD)
-	Frequency: 40
-
-	K.K. Condor
-	N12.brstm (0x27BE)
-	Frequency: 40
-
-################
 Smashville_Sakura.tlst - 5 tracks
 
 	Press Garden Zone Act 2 (Blossom Haze)
@@ -1132,73 +1176,6 @@ Smashville_Tropical.tlst - 6 tracks
 	[PINCH MODE TRACK: 3600 frames]
 	Gabe's Picks\Beach\F-Zero GX - Big Blue_b.brstm
 	Frequency: 40
-
-################
-Temple_of_Time.tlst - 12 tracks
-
-	Dark Wastes (Fire)
-	Gabe's Picks\Temple of Time\Fire Emblem Fates Music Extended - Dark Wastes (Fire).brstm
-	Volume: 80
-	Frequency: 30
-
-	Fódlan Winds (Rain)
-	Gabe's Picks\Temple of Time\Fire Emblem Three Houses - Fodlan Winds (Rain).brstm
-	Volume: 80
-	Frequency: 40
-
-	Scherzo Di Notte - Kingdom Hearts HD 2.5 ReMIX
-	Gabe's Picks\Temple of Time\Kingdom Hearts HD 2.5 ReMIX - Scherzo Di Notte.brstm
-	Volume: 80
-	Frequency: 40
-
-	Vector to the Heavens - Kingdom Hearts III Re:Mind
-	Gabe's Picks\Temple of Time\Kingdom Hearts III Re Mind - Vector to the Heavens.brstm
-	Volume: 80
-	Frequency: 50
-
-	Deep Woods - Sonic and the Black Knight
-	Gabe's Picks\Temple of Time\Sonic and the Black Knight - Deep Woods.brstm
-	Volume: 80
-	Frequency: 67
-
-	Misty Lake (OST Version)
-	Gabe's Picks\Temple of Time\Sonic and the Black Knight - Misty Lake (OST Version).brstm
-	Volume: 80
-	Frequency: 40
-
-	Monk Maz Koshia (Medley)
-	Gabe's Picks\Temple of Time\The Legend of Zelda Breath of the Wild - The Champion's Ballad - Boss - Monk Maz Koshia (Medley).brstm
-	Volume: 80
-	Frequency: 40
-
-	Zelda Battle - The Legend of Zelda Twilight Princess
-	Gabe's Picks\Temple of Time\The Legend of Zelda Twilight Princess - Zelda Battle.brstm
-	Volume: 80
-	Frequency: 27
-
-	Keycard Theme #15 - Yu-Gi-Oh! Master Duel
-	Gabe's Picks\Temple of Time\Keycard Theme #15 - Yu-Gi-Oh! Master Duel.brstm
-	Volume: 80
-	[PINCH MODE TRACK: 7200 frames]
-	Gabe's Picks\Temple of Time\Keycard Theme #15 - Yu-Gi-Oh! Master Duel_b.brstm
-	Frequency: 60
-
-	Keycard Theme #3 - Yu-Gi-Oh! Master Duel
-	Gabe's Picks\Temple of Time\Yu-Gi-Oh! Master Duel BGM - Keycard Theme #3.brstm
-	Volume: 80
-	[PINCH MODE TRACK: 7200 frames]
-	Gabe's Picks\Temple of Time\Yu-Gi-Oh! Master Duel BGM - Keycard Theme #3_b.brstm
-	Frequency: 40
-
-	La Caution - Thé à la Menthe - The Laser Dance Song
-	Gabe's Picks\Temple of Time\La Caution - The a la Menthe - The Laser Dance Song.brstm
-	Volume: 80
-	Frequency: 100
-
-	DBZ Budokai - Challengers
-	Gabe's Picks\Temple of Time\Dragon Ball Z Budokai - Challengers.brstm
-	Volume: 75
-	Frequency: 80
 
 ################
 Wario_Land.tlst - 10 tracks
@@ -1282,53 +1259,74 @@ Yoshis_Island.tlst - 5 tracks
 	Frequency: 40
 
 ################
-Kongo_Jungle_64.tlst - 1 track
+Temple_of_Time.tlst - 13 tracks
 
-	DK Island Swing (Super Smash Bros. ver.)
-	NutTracks/kongo/DK Island Swing (SSB).brstm
-	Volume: 60
-	Frequency: 40
+	Dark Wastes (Fire)
+	Gabe's Picks\Temple of Time\Fire Emblem Fates Music Extended - Dark Wastes (Fire).brstm
+	Volume: 80
+	Frequency: 30
 
-################
-Bowsers_Keep.tlst - 8 tracks
-
-	FamilyJules - Forest Maze (Super Mario RPG)
-	Nuttracks/bk/Forest Maze (FamilyJules).brstm
+	Fódlan Winds (Rain)
+	Gabe's Picks\Temple of Time\Fire Emblem Three Houses - Fodlan Winds (Rain).brstm
 	Volume: 80
 	Frequency: 40
 
-	Fight Against a Somewhat Stronger Monster (Super Mario RPG)
-	NutTracks/bk/Fight Against a Somewhat Stronger Monster.brstm
+	Scherzo Di Notte - Kingdom Hearts HD 2.5 ReMIX
+	Gabe's Picks\Temple of Time\Kingdom Hearts HD 2.5 ReMIX - Scherzo Di Notte.brstm
 	Volume: 80
 	Frequency: 40
 
-	Fight Against Smithy (Super Mario RPG)
-	NutTracks/bk/Fight Against Smithy.brstm
+	Vector to the Heavens - Kingdom Hearts III Re:Mind
+	Gabe's Picks\Temple of Time\Kingdom Hearts III Re Mind - Vector to the Heavens.brstm
+	Volume: 80
+	Frequency: 50
+
+	Deep Woods - Sonic and the Black Knight
+	Gabe's Picks\Temple of Time\Sonic and the Black Knight - Deep Woods.brstm
+	Volume: 80
+	Frequency: 67
+
+	Misty Lake (OST Version)
+	Gabe's Picks\Temple of Time\Sonic and the Black Knight - Misty Lake (OST Version).brstm
 	Volume: 80
 	Frequency: 40
 
-	Fight Against Smithy, Who Likes Transforming (Super Mario RPG)
-	NutTracks/bk/Fight Against Smithy, Who Likes Transforming.brstm
+	Monk Maz Koshia (Medley)
+	Gabe's Picks\Temple of Time\The Legend of Zelda Breath of the Wild - The Champion's Ballad - Boss - Monk Maz Koshia (Medley).brstm
 	Volume: 80
 	Frequency: 40
 
-	GaMetal - Fight Against an Armed Boss (Super Mario RPG)
-	NutTracks/bk/Fight Against an Armed Boss (GaMetal).brstm
+	Zelda Battle - The Legend of Zelda Twilight Princess
+	Gabe's Picks\Temple of Time\The Legend of Zelda Twilight Princess - Zelda Battle.brstm
 	Volume: 80
+	Frequency: 27
+
+	Keycard Theme #15 - Yu-Gi-Oh! Master Duel
+	Gabe's Picks\Temple of Time\Keycard Theme #15 - Yu-Gi-Oh! Master Duel.brstm
+	Volume: 80
+	[PINCH MODE TRACK: 7200 frames]
+	Gabe's Picks\Temple of Time\Keycard Theme #15 - Yu-Gi-Oh! Master Duel_b.brstm
+	Frequency: 60
+
+	Keycard Theme #3 - Yu-Gi-Oh! Master Duel
+	Gabe's Picks\Temple of Time\Yu-Gi-Oh! Master Duel BGM - Keycard Theme #3.brstm
+	Volume: 80
+	[PINCH MODE TRACK: 7200 frames]
+	Gabe's Picks\Temple of Time\Yu-Gi-Oh! Master Duel BGM - Keycard Theme #3_b.brstm
 	Frequency: 40
 
-	GaMetal - Fight Against Bowser (Super Mario RPG)
-	NutTracks/bk/Fight Against Bowser.brstm
+	La Caution - Thé à la Menthe - The Laser Dance Song
+	Gabe's Picks\Temple of Time\La Caution - The a la Menthe - The Laser Dance Song.brstm
 	Volume: 80
-	Frequency: 40
+	Frequency: 100
 
-	GaMetal - Fight Against Culex (Super Mario RPG)
-	NutTracks/bk/Fight Against Culex.brstm
-	Volume: 80
-	Frequency: 40
+	DBZ Budokai - Challengers
+	Gabe's Picks\Temple of Time\Dragon Ball Z Budokai - Challengers.brstm
+	Volume: 75
+	Frequency: 80
 
-	GaMetal - The Grand Finale (Mario and Luigi: Bowser's Inside Story)
-	NutTracks/bk/The Grand Finale (GaMetal).brstm
-	Volume: 80
-	Frequency: 40
+	ASSGORE (Kanye West Likes) Instrumental
+	Gabe's Picks\Temple of Time\ASSGORE (Kanye West Likes) Instrumental.brstm
+	Volume: 69
+	Frequency: 80
 
