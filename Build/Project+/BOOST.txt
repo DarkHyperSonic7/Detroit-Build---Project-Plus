@@ -50,6 +50,7 @@ op blt- 0x34	   @ $8018CFC8
 
 .include Source/Project+/EffectCommands.asm
 .include Source/Project+/EffectsEX.asm
+.include Source/Project+/Effects.asm
 .include Source/Project+/Attributes.asm
 .include Source/Project+/PokeTrainer.asm
 
@@ -67,6 +68,7 @@ op blt- 0x34	   @ $8018CFC8
 .include Source/Project+/VictoryCamera.asm
 .include Source/Project+/ResultsSkip.asm
 .include Source/Project+/Unlocks.asm
+.include Source/Project+/Hitbox.asm
 
 .include Source/LegacyTE/ASLHelper.asm
 .include Source/LegacyTE/LoadFlags.asm
@@ -96,4 +98,4 @@ op blt- 0x34	   @ $8018CFC8
 #.include Source/Extras/Netplay.asm	# Only use this in Dolphin! The codes in this will result in bad behavior on the Wii!
 
 .include Source/Extras/More.asm
-.include Source/Extras/PersistentSoundTestTracks.asm
+#.include Source/Extras/PersistentSoundTestTracks.asm		# Currently disabled as this is affecting the ASL code (after selecting a track for an alt stage, the button combo must be held to have a specific track play on an alt stage)

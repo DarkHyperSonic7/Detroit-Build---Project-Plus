@@ -597,6 +597,7 @@ HOOK @ $801f3058
 .include Source/Project+/TripRate.asm
 .include Source/Project+/CompressPAC.asm
 .include Source/Project+/FilePatchCode.asm
+.include Source/Community/WaveIDIntercept.asm
 .include Source/Project+/Memory.asm
 
 #############################################################################
@@ -2998,6 +2999,6 @@ op b 0x38	@ $808A087C
 .include Source/Project+/Items.asm
 .include Source/Project+/Co-OpSave.asm
 .include Source/Community/ItemEx.asm
-.include Source/Community/Syringe.asm
+.include Source/Community/Syringe.asm		
 
 .include Source/Project+/MultiGCT.asm		# MAKE SURE THIS IS AT THE VERY BOTTOM OF THIS CODESET!!!
