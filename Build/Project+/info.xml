@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<projectm>
+<root>
   <game>
+<<<<<<< Updated upstream
     <version>3.1.0</version>
     <minimumLauncherVersion>1.14</minimumLauncherVersion>    
+=======
+    <name>Project+</name>
+    <version>3.2</version>
+>>>>>>> Stashed changes
   </game>
-  <launcher />
-</projectm>
+  <launcher>
+	<selectionColor r="165" g="255" b="215"/>
+	<musicPath>project m/launcher.brstm</musicPath>
+    <updateUrl>https://projectplusgame.com/launcher/update.xml</updateUrl>
+  </launcher>
+</root>
