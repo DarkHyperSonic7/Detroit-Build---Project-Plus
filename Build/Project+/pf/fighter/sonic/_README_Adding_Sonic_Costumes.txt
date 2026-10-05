@@ -100,6 +100,10 @@ In the Particle entry, Color1Secondary and Color2Secondary control the colors of
 
 If you have any questions, please feel free to ask in the #modding-discussion channel of the Project+ Discord.
 
+-------------------------------------------------------
+-------------------------------------------------------
+
+To modify the SideB follow trails, in PSA compressor, go to Events/Sub-Routines and go to Offset 2E5AC
 
 
 

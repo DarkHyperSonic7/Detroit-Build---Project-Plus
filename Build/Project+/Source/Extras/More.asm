@@ -4,8 +4,6 @@
 #.include source/Extras/AI/AiDebug.asm 		# Displays AI debug for CPU in P1 slot. Incompatible with CodeMenu.asm (In RSBE01.txt). One or the other must be ignored with # in front of .include
 
 #.include source/Extras/USBGecko.asm 		# Adds support for Gecko codes passed in by a USB Gecko
-<<<<<<< Updated upstream
-=======
 
 #.include Source/Extras/AiDebug.asm 
 # Displays AI debug for CPU in P1 slot. Incompatible with CodeMenu.asm (In RSBE01.txt). One or the other must be ignored with # in front of .include
@@ -34,4 +32,3 @@
 #.include Source/Extras/USBGecko.asm
 # Adds support for Gecko codes passed in by a USB Gecko
 
->>>>>>> Stashed changes

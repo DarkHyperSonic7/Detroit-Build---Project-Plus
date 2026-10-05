@@ -142,7 +142,7 @@ Table_Skip:
 	.RESET
 
 ###########################################################################################################################################################
-[Project+] SoundBank Expansion System (RSBE.Ver) v2.4 [codes, DukeItOut, JOJI]
+[Project+] SoundBank Expansion System (RSBE.Ver) v2.5 [codes, DukeItOut, JOJI]
 # v1.1 - Kirbycide Fix + Voice clips volume fix + CSS Hiccup Fix
 # v1.2 - Fixes Mr. Resetti's brsar conflicts
 # v2.0 - Removed Sound Resource table occupation and made dynamic to better support resource size changes
@@ -151,6 +151,7 @@ Table_Skip:
 # v2.2 - Made pointers even more flexible to account for potential Sound Resource changes
 # v2.3 - Added a safety to prevent crashing when attempting to load a custom soundbank that failed to be found.
 # v2.4 - Fixed issue where sounds could be paired with the wrong soundbanks if not played the moment they are called.
+# v2.5 - Increased stability of sample check to avoid introduced error where the wrong bank was accessed sometimes.
 #
 # 90432134 references -> Sound Resource + 0x298934-to-0x29897F
 # 901A3090 references -> Written to CodeFlag+0x4
@@ -326,135 +327,6 @@ HOOK @ $80079F90
 }
 HOOK @ $8007A194
 {
-<<<<<<< Updated upstream
-  mtctr r12			# Original operation
-  cmplwi r26, CustomSoundbankRange;  blt- %END%
-  
-  lwz r4, 0x18(r31) 	#
-  lwz r4, 0x04(r4)		#
-  lwz r4, 0x28(r4)		# RSAR info
-  addis r4, r4, 0xE		#
-  addi  r4, r4, 0x3C6C	# Desired Offset: E3C6C 
-  
-  addi r5, r26, 0x7		# Soundbank ID + 7
-  stw r5, 0(r4)
-
-}
-HOOK @ $801C8374
-{
-  cmpwi r26, CustomSoundbankRange;  blt- loc_0x34
-  
-  
-  # lwz r15, 0x40(r1)
-  # lwz r15, 0x1C(r15)
-  # lwz r15, 0x94(r15)
-  # lwz r15, 0x490(r15)		# Pointer to mostly unused FRMH sound heap. Commented out as it was actually used by Pokemon Trainer 
-  # addi r15, r15, 0x60		# Fills only up to 0x58 normally
-  
-  stwu r1, -0x30(r1)
-  stw r15, 0x8(r1)
-  stw r14, 0xC(r1)
-  stw r19, 0x10(r1)
-  stw r12, 0x14(r1)
-  stw r11, 0x18(r1)
-  
-    lis r15, 0x8053;  ori r15, r15, 0xED00
-  
-  subi r14, r28, 0x80	# 909ebbe0 -> 909EBB60
-  
-  li r12, 11	# \ Loop 11 times!
-  mtctr r12		# /
-  lwz r12, -0x4(r15)	# Pointer to a table of 11 pointers
-  
-  li r19, 0
-  
- loopPass:  
-  lwzx r11, r12, r19
-  cmpw r11, r14		# Check if in the same allocation
-  beq endLoop
-  addi r19, r19, 4
-  bdnz+ loopPass 
- endLoop:
-  mulli r19, r19, 2	# 4 apart -> 8 apart
-  
-  lwz r14, 0x18(r31) 		#
-  lwz r14, 0x04(r14)		#
-  lwz r14, 0x28(r14)		# RSAR info
-  addis r14, r14, 0xE		#
-  addi  r14, r14, 0x3C6C	# Desired Offset: E3C6C  
-  
-  add r15, r15, r19
-  lwz r19, 0x4C(r14)
-  stw r19, 0x00(r15)
-  lwz r19, 0x60(r14)
-  stw r19, 0x04(r15)
-  
-  lwz r15, 0x8(r1)
-  lwz r14, 0xC(r1)
-  lwz r19, 0x10(r1)
-  lwz r12, 0x14(r1) 
-  lwz r11, 0x18(r1) 
-  lwz r1, 0(r1)
- 
-loc_0x34:
-  cmpwi r3, 0x0			# Original operation
-}
-### Soundbank address info
-HOOK @ $801C7AB4
-{
-  lwz r0, 0xC(r3)	# Original operation
-  cmplwi r29, CustomSoundbankRange;  blt- %END%
-
-	stwu r1, -0x10(r1)
-	stw r4, 0x8(r1)
-	stw r5, 0xC(r1)
-
-  # lwz r28, 0x10(r1)
-  # lwz r28, 0x1C(r28)
-  # lwz r28, 0x94(r28)
-  # lwz r28, 0x490(r28)		# Pointer to mostly unused FRMH sound heap. Commented out as it actually was used by Pokemon Trainer 
-  # addi r28, r28, 0x60		# Start at offset 0x60
-  
-  lwz r28, 0x2C(r1)	# 1C + 10
-  subi r28, r28, 0x80 
-  
-  lis r3, 0x8053;  ori r3, r3, 0xED00
-  
-  li r12, 11	# \ Loop 11 times!
-  mtctr r12		# /
-  lwz r12, -0x4(r3)	# Pointer to a table of 11 pointers
-  
-  li r5, 0
-  
- loopPass:  
-  lwzx r4, r12, r5
-  cmpw r4, r28		# Check if in the same allocation
-  ble endLoop		# The checks are in order from highest address to lowest!
-  addi r5, r5, 4
-  bdnz+ loopPass 
- endLoop:
-  mulli r5, r5, 2	# 4 apart -> 8 apart 
-  add r12, r3, r5
-
-	lwz r4, 0x8(r1)
-	lwz r5, 0xC(r1)
-	lwz r1, 0(r1)
-  
-  
-  li r0, 0	# Pointer to voices within bank (Start of it). Without this, it could get invalid values before.
-  cmplwi r30, 0;  beq- %END% 	# Use below to get index for SFX
-
-  lwz r0, 0x04(r12)
-
-}
-HOOK @ $801C7ABC
-{
-  lwz r0, 0x10(r3)	# Original operation
-  cmplwi r29, CustomSoundbankRange;  blt- %END%
-
-  lwz r0, 0x00(r12)
-}
-=======
 	%lwi(r27,PointerBlock)	
 	li r3, 5		# Sound Heap (5)
 	li r4, 0x2800	# block size needed is 0x28 * 0x100
@@ -464,7 +336,6 @@ HOOK @ $801C7ABC
   li r0, 0 # Original operation
 }
 ### Soundbank address info
->>>>>>> Stashed changes
 HOOK @ $801C7A00
 {
   %lwd(r4,TableBlockPtr)

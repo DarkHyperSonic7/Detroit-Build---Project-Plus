@@ -196,7 +196,6 @@ Base: Castle_Siege.param
 R: Castle_Siege_R.param
 L: Castle_Siege_L.param
 Z: Castle_Siege_Z.param
-X: Castle_Siege_X.param
 0x4000: Castle_Siege_MR_00.param
 0x8000: Castle_Siege_ML_00.param
 0x8001: Castle_Siege_ML_01.param
@@ -250,22 +249,12 @@ Z: Fourside_Z.param
 
 
 ################
-<<<<<<< Updated upstream
-21.asl - 8 entries
-=======
 21.asl - 13 entries
->>>>>>> Stashed changes
 
 Base: Smashville.param
-Y: Smashville_Y.param
 R: Smashville_R.param
-Y+R: Smashville_YR.param
 L: Smashville_L.param
-Y+L: Smashville_YL.param
 Z: Smashville_Z.param
-<<<<<<< Updated upstream
-Y+Z: Smashville_YZ.param
-=======
 0x4000: Smashville_MR_00.param
 0x4001: Smashville_MR_01.param
 0x4002: Smashville_MR_02.param
@@ -275,7 +264,6 @@ Y+Z: Smashville_YZ.param
 0x4006: Smashville_MR_06.param
 0x4007: Smashville_MR_07.param
 0x4008: Smashville_MR_08.param
->>>>>>> Stashed changes
 
 
 ################
