@@ -1,4 +1,4 @@
-These are the naming signifiers to help identify competitive 1:1 reskins in the file structure:
+To help identify competitive 1:1s in the file structure, there are the commonly used competiive alt signifiers
 
 BF: Battlefield
 
@@ -8,9 +8,7 @@ CS: Castle Siege
 
 CSC: Ceres Space Colony
 
-DED: Dead Line
-
-DS: Delfino's Secret
+DS: Delfino Secret
 
 DL: Dream Land
 
@@ -42,10 +40,10 @@ SSZ: Sky Sanctuary Zone
 
 TOT: Temple of Time
 
-WL: Wario Land
+WL: Warioland
 
 YI: Yoshi's Island (P+)
 
-YIPM: Yoshi's Island (PM)
+YIPM: Yohsi's Island PM
 
 YS: Yoshi's Story

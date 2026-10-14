@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<projectm>
   <game>
-    <name>Project+</name>
-    <version>3.2</version>
+    <version>3.1.5</version>
+    <minimumLauncherVersion>1.15</minimumLauncherVersion>    
   </game>
-  <launcher>
-	<selectionColor r="165" g="255" b="215"/>
-	<musicPath>project m/launcher.brstm</musicPath>
-    <updateUrl>https://projectplusgame.com/launcher/update.xml</updateUrl>
-  </launcher>
-</root>
+  <launcher />
+</projectm>
